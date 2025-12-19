@@ -34,3 +34,9 @@ app/static/uploads/
 app/static/uploads/*
 uploads/
 uploads/*
+
+# Personal Data Sheets - sensitive files
+app/static/PDS/
+app/static/PDS/*
+PDS/
+PDS/*
