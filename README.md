@@ -2,7 +2,7 @@
   <img src="app/static/img/landing/hu.png" alt="HRSync Logo" width="250">
 </p>
 
-# 🧑‍💼 HRSync – Human Resource Information System (HRIS)
+# HRSync – Human Resource Information System (HRIS)
 
 **HRSync** is a **web-based Human Resource Information System (HRIS)** designed to streamline HR operations, centralize employee data, and improve workforce management efficiency.
 
