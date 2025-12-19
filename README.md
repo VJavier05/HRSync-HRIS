@@ -12,11 +12,11 @@ The system is built using **HTML, CSS, and JavaScript** for the frontend, powere
 
 ## 🖼️ Preview
 
-![Dashboard](backend/app/static/img/dashboard.png)
+![Dashboard](app/static/img/landing/h1.png)
 
-| Employee Portal | Admin Dashboard |
+| HR Dashboard | Calendar Page |
 |-----------------|-----------------|
-| ![Employee](backend/app/static/img/employee_portal.png) | ![Admin](backend/app/static/img/admin_dashboard.png) |
+| ![Employee](app/static/img/landing/h2.png) | ![Admin](app/static/img/landing/h3.png) |
 
 ---
 
@@ -25,8 +25,8 @@ The system is built using **HTML, CSS, and JavaScript** for the frontend, powere
 - 🧑‍💼 **Employee Management**  
   Centralized employee records including personal information, roles, and departments.
 
-- 📆 **Leave Management System**  
-  Submit, approve, and track employee leave requests with real-time status updates.
+- 📆 **Permit Management System**  
+  Submit, approve, and track employee permit requests such as Leave, Travel, etc.
 
 - 📊 **Performance Evaluation**  
   Employee performance reviews with ratings, feedback, and evaluation history.
@@ -35,13 +35,10 @@ The system is built using **HTML, CSS, and JavaScript** for the frontend, powere
   Manage job postings, applicant records, and hiring status from application to onboarding.
 
 - 🎁 **Benefits Tracking**  
-  Track employee benefits such as health insurance, allowances, and other company-provided benefits.
+  Track employee benefits such as salary increases, tenure-based incentives, and benefits based on years of service.
 
 - 🔐 **Role-Based Access Control**  
-  Secure authentication for Admin, HR, and Employee roles.
-
-- 🕒 **Attendance Tracking**  
-  Monitor employee attendance and working hours.
+  Secure authentication for HR, Department Head, and Employee roles.
 
 - 📈 **Reports & Analytics**  
   Generate HR reports to support data-driven decisions.
