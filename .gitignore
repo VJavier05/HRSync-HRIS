@@ -28,3 +28,9 @@ instance/
 # OS files
 .DS_Store
 Thumbs.db
+
+# User uploads - sensitive files
+app/static/uploads/
+app/static/uploads/*
+uploads/
+uploads/*
